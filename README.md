@@ -23,7 +23,7 @@ My focus to developer is FrontEnd and Mobile systems
 <img align="center" alt="Sergio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="Sergio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
 <img align="center" alt="Sergio-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Sergio-flutter" height="30" width="40"scr=https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg/>
+<img align="center" alt="Sergio-flutter" height="40" width="40" scr="https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg"/>
 
 
 </div>
