@@ -2,11 +2,9 @@
 
 I'am Sérgio
 
-Mobile Developer
+FullStack Developer
 
 B.S in Computer Engineering
-
-My focus to developer is FrontEnd and Mobile systems
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiojunnior&show_icons=true&theme=tokyonight"/>
@@ -17,7 +15,20 @@ My focus to developer is FrontEnd and Mobile systems
 ###  Let's get connected:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sérgio-ricardo-ribeiro-junior/)
 
-### 🛠️ Technologies e Tools I use:
+### 🛠️ Tools I use:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,git,figma,docker,firebase,vscode" />
+<img align="center" alt="Sergio-jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+  </a>
+</p> 
+
+### 🛠️ Technologies i use :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  </a>
+</p> 
 
 <div>
 <img align="center" alt="Sergio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -31,7 +42,6 @@ My focus to developer is FrontEnd and Mobile systems
 <img align="center" alt="Sergio-dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
 <img align="center" alt="Sergio-firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img align="center" alt="Sergio-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Sergio-jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <img align="center" alt="Sergio-azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azuredevops-original-wordmark.svg" />
 <img align="center" alt="Sergio-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
