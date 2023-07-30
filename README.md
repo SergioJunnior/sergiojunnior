@@ -1,6 +1,6 @@
 ### Hi  👋
 
-I'am Sérgio
+I'am Sérgio Ricardo Ribeiro Junior
 
 FullStack Developer
 
