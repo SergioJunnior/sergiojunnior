@@ -8,7 +8,7 @@ B.S in Computer Engineering
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiojunnior&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiojunnior&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiojunnior&layout=compact&theme=tokyonight"/>
   
 </div>
 
@@ -18,31 +18,15 @@ B.S in Computer Engineering
 ### 🛠️ Tools I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,figma,docker,firebase,vscode" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+    <img src="https://skillicons.dev/icons?i=azure,git,figma,docker,firebase,vscode,idea" />
   </a>
 </p> 
 
 ### 🛠️ Technologies i use :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,styledcomponents,react,nextjs,nestjs,jest,kotlin,flutter,dart,prisma,spring" />
   </a>
 </p> 
 
-<div>
-<img align="center" alt="Sergio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="Sergio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
-<img align="center" alt="Sergio-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Sergio-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="center" alt="Sergio-nextJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="center" alt="Sergio-nestJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nest/nest-original.svg" />
-<img align="center" alt="Sergio-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Sergio-flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img align="center" alt="Sergio-dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
-<img align="center" alt="Sergio-firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="center" alt="Sergio-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Sergio-azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azuredevops-original-wordmark.svg" />
-<img align="center" alt="Sergio-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
-</div>
