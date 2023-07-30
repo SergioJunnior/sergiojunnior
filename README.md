@@ -19,7 +19,7 @@ B.S in Computer Engineering
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,git,figma,docker,firebase,vscode" />
-<img align="center" alt="Sergio-jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
   </a>
 </p> 
 
