@@ -2,7 +2,7 @@
 
 I'am Sérgio Ricardo Ribeiro Junior
 
-FullStack Developer
+FullStack and Mobile Developer
 
 B.S in Computer Engineering
 
